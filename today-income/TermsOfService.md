@@ -1,0 +1,161 @@
+# 服务条款 / Terms of Service
+
+**最后更新日期：2026年3月26日**
+
+## 中文版本
+
+欢迎使用今日收入。通过下载、安装或使用本应用，即表示您同意遵守以下服务条款。
+
+### 1. 服务说明
+
+今日收入是一款纯本地运行的应用，提供以下功能：
+
+- 工资收入记录和管理（月薪、日薪、时薪、按次）
+- 上下班打卡计时
+- 实时工资计算
+- 工作时长统计
+- 本地通知提醒
+
+所有数据存储在您的设备本地，不涉及任何云端服务。
+
+### 2. 使用前提
+
+- 您需要拥有 iOS 设备（iPhone）
+- 您需要年满法定年龄，或在监护人同意下使用
+- 您需要同意并遵守本服务条款
+
+### 3. 数据准确性
+
+**重要提示：** 本应用中的收入计算、工作时长统计等功能仅供参考和学习之用。本应用不是财务软件或法律工具，不能替代您的工资单、考勤记录或其他正式文件。
+
+您理解并同意：
+
+- 应用内的计算结果可能与实际工资有差异
+- 本应用不构成任何财务、法律或就业建议
+- 您应自行核实所有收入数据
+- 实际工资以您的工资单和雇主确认为准
+- 您有责任保留独立的工资和考勤记录
+
+### 4. 数据管理
+
+您的所有数据存储在您的设备上。您可以：
+
+- 随时查看、编辑、删除您的收入记录
+- 卸载应用清除所有本地数据
+
+### 5. 知识产权
+
+本应用的名称、设计、代码和功能受知识产权法律保护。未经授权，您不得复制、修改、反编译或反向工程本应用。
+
+### 6. 免责声明
+
+本应用按"现状"提供，我们不对以下事项做出任何保证：
+
+- 计算结果的100%准确性
+- 服务的持续可用性
+- 数据丢失或损坏的责任
+
+对于因使用或无法使用本应用而产生的任何损失，我们不承担责任。
+
+### 7. 服务变更
+
+我们保留随时修改或停止应用功能的权利，恕不另行通知。
+
+### 8. 账户终止
+
+您可以随时停止使用本应用，卸载应用即表示终止使用。
+
+### 9. 适用法律
+
+本服务条款受中华人民共和国法律管辖。因本条款或使用本应用产生的争议，双方应友好协商解决。
+
+### 10. 条款修改
+
+我们可能不时更新本服务条款。更新后的条款在发布后生效。
+
+### 11. 联系我们
+
+如对本服务条款有任何问题，请联系我们：
+
+电子邮件：support@data4ai.io
+
+---
+
+## English Version
+
+**Last Updated: March 26, 2026**
+
+Welcome to Today's Income. By downloading, installing, or using this app, you agree to comply with the following terms of service.
+
+### 1. Service Description
+
+Today's Income is a purely local app that provides the following features:
+
+- Income record and management (monthly, daily, hourly, per-job)
+- Clock in/out timing
+- Real-time salary calculation
+- Working hours statistics
+- Local notification reminders
+
+All data is stored locally on your device without any cloud services.
+
+### 2. Prerequisites
+
+- You need to have an iOS device (iPhone)
+- You need to be of legal age, or use the app with guardian consent
+- You need to agree to and comply with these terms of service
+
+### 3. Data Accuracy
+
+**Important Notice:** The income calculations, working hours statistics, and other features in this app are for reference and learning purposes only. This app is not a financial software or legal tool and cannot replace your payslip, attendance records, or other official documents.
+
+You understand and agree that:
+
+- Calculation results in the app may differ from actual salary
+- This app does not constitute any financial, legal, or employment advice
+- You should verify all income data yourself
+- Actual salary is based on your payslip and employer confirmation
+- You are responsible for keeping independent salary and attendance records
+
+### 4. Data Management
+
+All your data is stored on your device. You can:
+
+- View, edit, and delete your income records at any time
+- Uninstall the app to clear all local data
+
+### 5. Intellectual Property
+
+The app's name, design, code, and functionality are protected by intellectual property laws. Without authorization, you may not copy, modify, decompile, or reverse engineer this app.
+
+### 6. Disclaimer
+
+This app is provided "as is" without any guarantees for:
+
+- 100% accuracy of calculation results
+- Continuous availability of service
+- Responsibility for data loss or damage
+
+We are not liable for any losses arising from the use or inability to use this app.
+
+### 7. Service Changes
+
+We reserve the right to modify or discontinue app features at any time without prior notice.
+
+### 8. Account Termination
+
+You may stop using this app at any time. Uninstalling the app constitutes termination of use.
+
+### 9. Applicable Law
+
+These terms of service are governed by the laws of the People's Republic of China. Any disputes arising from these terms or the use of this app shall be resolved through friendly negotiation.
+
+### 10. Terms Updates
+
+We may update these terms of service from time to time. Updated terms take effect upon posting.
+
+### 11. Contact Us
+
+If you have any questions about these terms of service, please contact us:
+
+Email: support@data4ai.io
