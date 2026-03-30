@@ -1,8 +1,10 @@
-## English Version
+# Privacy Policy
 
 **Last Updated: March 26, 2026**
 
 **Core Principle:** Today's Income is a purely local app. All data is stored only on your device. We do not collect, transmit, or share any of your personal data.
+
+## English Version
 
 ### 1. Data Collection
 
